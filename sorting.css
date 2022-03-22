@@ -21,7 +21,7 @@ header {
 }
 
 header .title {
-  font-size: 1.5rem;
+  font-size: 2 rem;
   letter-spacing: 0.1rem;
   text-align: center;
   line-height: 2.5rem;
@@ -35,6 +35,10 @@ header .title {
 
 .title .color-1{
   color: #f00000;
+}
+
+.title .color-4{
+  color: black;
 }
 
 .title .color-2{
@@ -63,11 +67,11 @@ header .navbar {
 
 .navbar .btn {
   padding: 0.4rem 0.7rem;
-  font-family: monospace;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 0.9rem;
-  color: white;
+  color: rgb(255, 255, 255);
   background: black;
-  border: 2px solid rgb(212, 2, 2);
+  border: 2px solid rgb(43, 14, 175);
   border-radius: 2px;
   outline: none;
   cursor: pointer;
