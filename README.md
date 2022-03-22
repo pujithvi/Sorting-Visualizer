@@ -7,4 +7,5 @@ There are 4 algorithms which this website currently supports: Selection Sort, Bu
 Netlify Link: https://cute-fudge-984c62.netlify.app
 
 
+![alt text](https://github.com/pujithvi/Sorting-Visualizer/blob/main/sortingvis.png?raw=true)
 
